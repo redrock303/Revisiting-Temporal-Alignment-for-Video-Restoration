@@ -3,7 +3,7 @@
 
 We provide our results at [Google Cloud](https://drive.google.com/drive/folders/1EMWTJhRXR6F3-6Mk-4T09kB5qSMcs1iS?usp=sharing).
 
-We will also plan to update this repository with the testing/training code later.
+We will also to update this repository with the testing/training code later.
 
 ### Citing
 If you find this code useful for your research, please consider citing the following paper:
