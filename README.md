@@ -8,9 +8,9 @@ We will also plan to update this repository with the testing/training code later
 ### Citing
 If you find this code useful for your research, please consider citing the following paper:
 
-@article{zhou2021rat,
-      title={Revisiting Temporal Alignment for Video Restoration},
-      author={Kun Zhou and Wenbo Li and Liying Lu and Xiaoguang Han and Jiangbo Lu},
-      journal={arXiv preprint arXiv:2111.15288},
-      year={2021}
-    }
+@article{zhou2021rta, <br>
+      title={Revisiting Temporal Alignment for Video Restoration},<br>
+      author={Kun Zhou and Wenbo Li and Liying Lu and Xiaoguang Han and Jiangbo Lu},<br>
+      journal={arXiv preprint arXiv:2111.15288},<br>
+      year={2021}<br>
+    }<br>
