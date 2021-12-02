@@ -1,4 +1,4 @@
-# Revisiting Temporal Alignment for Video Restoration [\[arXiv\]](https://arxiv.org/pdf/2111.15288)
+# Revisiting Temporal Alignment for Video Restoration [\[arXiv\]](https://arxiv.org/pdf/2111.15288v2.pdf)
 ## Kun Zhou, Wenbo Li, Liying Lu, Xiaoguang Han, Jiangbo Lu
 
 We provide our results at [Google Cloud](https://drive.google.com/drive/folders/1EMWTJhRXR6F3-6Mk-4T09kB5qSMcs1iS?usp=sharing).
