@@ -3,6 +3,8 @@
 
 We provide our results at [Google Cloud](https://drive.google.com/drive/folders/1EMWTJhRXR6F3-6Mk-4T09kB5qSMcs1iS?usp=sharing).
 
+<img src="./RTA_Files/ezgif-1-20f908e90ed7.gif" width=786>
+
 We will also to update this repository with the testing/training code later.
 
 ### Citing
