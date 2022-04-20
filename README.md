@@ -50,12 +50,12 @@ Also you can run the sequence_test.py for testing your own video sequences. <br>
 ### Citing
 If you find this code useful for your research, please consider citing the following paper:
 
-#### @inproceedings{zhou2021rta, <br>
-      title={Revisiting Temporal Alignment for Video Restoration},<br>
-      author={Kun Zhou and Wenbo Li and Liying Lu and Xiaoguang Han and Jiangbo Lu}, <br>
-      booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition} <br>
-      year={2021} <br>
-    } <br>
+#### @inproceedings{zhou2021rta, 
+      title={Revisiting Temporal Alignment for Video Restoration},
+      author={Kun Zhou and Wenbo Li and Liying Lu and Xiaoguang Han and Jiangbo Lu}, 
+      booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition} 
+      year={2021} 
+    } 
 ---
 ## License 
 Our code is for research purposes only. 
