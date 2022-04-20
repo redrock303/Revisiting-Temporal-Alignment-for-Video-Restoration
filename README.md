@@ -4,6 +4,8 @@
 ---
 #### We have provided the source code of our video super-resolution, video deblurring, and video denoising models. <br>
 #### We provide our results at [Google Cloud](https://drive.google.com/drive/folders/1EMWTJhRXR6F3-6Mk-4T09kB5qSMcs1iS?usp=sharing). <br>
+#### The pre-trained models are uploaded in the [google cloud](https://drive.google.com/drive/folders/1_em2Z1gUe9K3rbEFFvVENUcL4cY22Tkq). <br>
+#### Some in-the-wild testing sequences are available here. (https://drive.google.com/drive/folders/1c9X3UlmoS7xkgTfPC4IK9iBInEW1V-l8). <br>
 ---
 File Structure  <br>
    >libs <br>
