@@ -53,7 +53,7 @@ Also you can run the sequence_test.py for testing your own video sequences. <br>
       title={Revisiting Temporal Alignment for Video Restoration},
       author={Kun Zhou and Wenbo Li and Liying Lu and Xiaoguang Han and Jiangbo Lu}, 
       booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition} 
-      year={2021} 
+      year={2022} 
     } 
 ---
 ## License 
