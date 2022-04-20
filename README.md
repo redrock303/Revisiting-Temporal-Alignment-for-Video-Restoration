@@ -2,7 +2,7 @@
 #### Kun Zhou, Wenbo Li, Liying Lu, Xiaoguang Han, Jiangbo Lu
 #### [\[paper\]](https://arxiv.org/pdf/2111.15288v2.pdf) <br>
 ---
-#### We have provided the source code of our video super-resolution, video deblurring, and video denoising models. The validation codes are also given in the corresponding folders. For in-the-wild data, the sequence_test.py scripts in each folder can be used for testing.  <br>
+#### We have provided the source code of our video super-resolution, video deblurring, and video denoising models. <br>
 #### We provide our results at [Google Cloud](https://drive.google.com/drive/folders/1EMWTJhRXR6F3-6Mk-4T09kB5qSMcs1iS?usp=sharing). <br>
 ---
 File Structure  <br>
