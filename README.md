@@ -1,4 +1,4 @@
-<font size=1> # Revisiting Temporal Alignment for Video Restoration CVPR-2022 <br>
+ # Revisiting Temporal Alignment for Video Restoration CVPR-2022 <br>
 #### Kun Zhou, Wenbo Li, Liying Lu, Xiaoguang Han, Jiangbo Lu
 #### [\[paper\]](https://arxiv.org/pdf/2111.15288v2.pdf) <br>
 ---
@@ -58,4 +58,4 @@ Also you can run the sequence_test.py for testing your own video sequences. <br>
 ---
 ## License 
 Our code is for research purposes only. 
- </font>
+
