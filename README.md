@@ -56,3 +56,6 @@ If you find this code useful for your research, please consider citing the follo
       booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition}
       year={2021}<br>
     }<br>
+---
+## License 
+Our code is for research purposes only. 
