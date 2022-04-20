@@ -47,10 +47,9 @@ The DCNv2 should be installed correctly by running: <br>
 For evaluating the results of each model, you can run the corresponding "validate.py". <br>
 Also you can run the sequence_test.py for testing your own video sequences. <br>
 
-### Citing
-If you find this code useful for your research, please consider citing the following paper:
-
-#### @inproceedings{zhou2021rta, 
+## Citing
+#### If you find this code useful for your research, please consider citing the following paper:
+    @inproceedings{zhou2021rta, 
       title={Revisiting Temporal Alignment for Video Restoration},
       author={Kun Zhou and Wenbo Li and Liying Lu and Xiaoguang Han and Jiangbo Lu}, 
       booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition} 
