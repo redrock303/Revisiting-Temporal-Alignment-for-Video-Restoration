@@ -7,6 +7,7 @@
 #### The pre-trained models are uploaded in the [google cloud](https://drive.google.com/drive/folders/1_em2Z1gUe9K3rbEFFvVENUcL4cY22Tkq). <br>
 #### Some in-the-wild testing sequences are available [here](https://drive.google.com/drive/folders/1c9X3UlmoS7xkgTfPC4IK9iBInEW1V-l8). <br>
 ---
+
 File Structure  <br>
 <details>
   <summary>Click to expand </summary>
@@ -45,7 +46,8 @@ File Structure  <br>
    >>>network.py  <br>
    >>>validate.py  <br>
    >>>sequence_test.py  <br>
- <details>
+</details>
+
 ---
 ## Usage
 The DCNv2 should be installed correctly by running: <br>
